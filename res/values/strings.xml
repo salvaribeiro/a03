@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">a03</string>
+    <string name="bemvindo">Olá, seja bem-vindo!</string>
+    <string name="segundalinha">segunda linha</string>
+    <string name="terceiralinha">Três views em um único laiaute (LinearLayout). Todas instâncias
+    de TextView (esta última com letra maior). Observe que a anterior está alinhada (direita).
+    O padrão é esquerda, conforme a primeira opção. Também observe que há muito texto nesta
+    terceira linha. Isto exige que esta linha receba um peso (weight) maior.</string>
+</resources>
