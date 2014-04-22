@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b01"
-        android:id="@+id/button2"
+        android:id="@+id/b01"
         android:layout_row="0"
         android:layout_column="1"
         />
@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b00"
-        android:id="@+id/button"
+        android:id="@+id/b00"
         android:layout_row="0"
         android:layout_column="0"
         />
@@ -29,7 +29,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b02"
-        android:id="@+id/button4"
+        android:id="@+id/b02"
         android:layout_row="0"
         android:layout_column="2"/>
 
@@ -37,7 +37,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b03"
-        android:id="@+id/button3"
+        android:id="@+id/b03"
         android:layout_row="0"
         android:layout_column="3"/>
 
@@ -45,7 +45,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b04"
-        android:id="@+id/button5"
+        android:id="@+id/b04"
         android:layout_row="0"
         android:layout_column="4"/>
 
@@ -53,7 +53,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b11"
-        android:id="@+id/button2"
+        android:id="@+id/b11"
         android:layout_row="1"
         android:layout_column="1"
         />
@@ -62,7 +62,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b10"
-        android:id="@+id/button"
+        android:id="@+id/b10"
         android:layout_row="1"
         android:layout_column="0"
         />
@@ -71,7 +71,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b12"
-        android:id="@+id/button4"
+        android:id="@+id/b12"
         android:layout_row="1"
         android:layout_column="2"/>
 
@@ -79,7 +79,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b13"
-        android:id="@+id/button3"
+        android:id="@+id/b13"
         android:layout_row="1"
         android:layout_column="3"/>
 
@@ -87,7 +87,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b14"
-        android:id="@+id/button5"
+        android:id="@+id/b14"
         android:layout_row="1"
         android:layout_column="4"/>
 
@@ -95,7 +95,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b21"
-        android:id="@+id/button2"
+        android:id="@+id/b21"
         android:layout_row="2"
         android:layout_column="1"
         />
@@ -104,7 +104,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b20"
-        android:id="@+id/button"
+        android:id="@+id/b20"
         android:layout_row="2"
         android:layout_column="0"
         />
@@ -113,7 +113,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b22"
-        android:id="@+id/button4"
+        android:id="@+id/b22"
         android:layout_row="2"
         android:layout_column="2"/>
 
@@ -121,7 +121,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b23"
-        android:id="@+id/button3"
+        android:id="@+id/b23"
         android:layout_row="2"
         android:layout_column="3"/>
 
@@ -129,7 +129,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/b24"
-        android:id="@+id/button5"
+        android:id="@+id/b24"
         android:layout_row="2"
         android:layout_column="4"/>
 
@@ -137,7 +137,7 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="@string/texto"
+        android:text="@string/descricao"
         android:id="@+id/textView"
         android:layout_row="3"
         android:layout_column="0"

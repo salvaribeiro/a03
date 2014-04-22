@@ -27,5 +27,5 @@
     <string name="b22">22</string>
     <string name="b23">23</string>
     <string name="b24">24</string>
-    <string name="texto">GridLayout de 8 linhas e 9 colunas. Observe o posicionamento dos botões nesta GridLayout, bem como deste texto.</string>
+    <string name="descricao">GridLayout de 8 linhas e 9 colunas. Observe o posicionamento dos botões nesta GridLayout, bem como deste texto.</string>
 </resources>
