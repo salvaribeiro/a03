@@ -20,5 +20,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".Leiaute1"/>
+        <activity android:name=".Leiaute2"/>
     </application>
 </manifest>

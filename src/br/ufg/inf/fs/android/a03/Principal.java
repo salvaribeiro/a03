@@ -25,10 +25,15 @@ public class Principal extends Activity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
+        Intent intent;
 
         switch (id) {
             case R.id.laieute1:
-                Intent intent = new Intent(this, Leiaute1.class);
+                intent = new Intent(this, Leiaute1.class);
+                startActivity(intent);
+                return true;
+            case R.id.laieute2:
+                intent = new Intent(this, Leiaute2.class);
                 startActivity(intent);
                 return true;
         }

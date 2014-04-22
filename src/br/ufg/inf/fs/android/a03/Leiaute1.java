@@ -10,7 +10,7 @@ import android.webkit.WebView;
 public class Leiaute1 extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.layoute1);
+        setContentView(R.layout.layout1);
         WebView web = (WebView) findViewById(R.id.webView);
         web.loadUrl("http://www.inf.ufg.br");
     }
