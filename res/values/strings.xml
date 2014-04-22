@@ -8,4 +8,7 @@
     O padrão é esquerda, conforme a primeira opção. Também observe que há muito texto nesta
     terceira linha. Isto exige que esta linha receba um peso (weight) maior.</string>
     <string name="layout1">Leiaute 1</string>
+    <string name="b1">B1</string>
+    <string name="b2">Direita de B1</string>
+    <string name="b3">Baseado em B1</string>
 </resources>
